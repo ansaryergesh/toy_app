@@ -1,5 +1,5 @@
 class User < ApplicationRecord
   has_many :microposts
-  validates :content, presence: true    
-  validates :user_id, presence: true
+  validates :name, presence: true
+  validates :email, presence: true
 end
