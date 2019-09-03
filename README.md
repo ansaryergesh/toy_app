@@ -1,24 +1,12 @@
-# README
+# toy_app
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Description
+A toy_app application from [Chapter 2 of The Rails Tutorial](https://www.railstutorial.org/book/toy_app) by Michael Hartl.The purpose is to get a high-level overview of Ruby on Rails programming by rapidly generating an application using scaffold generators, which create a large amount of functionality automatically.
 
-Things you may want to cover:
+## Used:
+* Ruby 2.5.5
+* Rails 5.1.6
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+#### Author
+* [Amanda Viera Azevedo](https://github.com/vieiramanda11)
+* [Yergeshov Ansar](https://github.com/ansaryergesh)
